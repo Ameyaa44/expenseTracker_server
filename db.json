@@ -1,32 +1,5 @@
 {
   "transactions": [
-    {
-      "description": "Iphone",
-      "amount": 150000,
-      "type": "expense",
-      "date": "2026-02-18",
-      "id": "b6a6"
-    },
-    {
-      "description": "Grocery",
-      "amount": 400,
-      "type": "expense",
-      "date": "2027-10-06",
-      "id": "ac4d"
-    },
-    {
-      "id": "a2bb",
-      "description": "watch",
-      "amount": 6000,
-      "type": "expense",
-      "date": "2022-02-12"
-    },
-    {
-      "description": "Salary",
-      "amount": 35000,
-      "type": "income",
-      "date": "2026-02-22",
-      "id": "_UY3xY_"
-    }
+   
   ]
 }
